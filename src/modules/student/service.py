@@ -96,7 +96,7 @@ class UpdateScoreStudentService:
             {"rn": self._rn}, {"score": _student["score"]}
         )
         _ranking = await self._ranking(_student["score"])
-        print(_ranking)
+        
         return GetRankingStudent(
             name=_student.get("name"),
             rn=_student.get("rn"),
