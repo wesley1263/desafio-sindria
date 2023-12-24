@@ -70,7 +70,7 @@ make run-app
 
 ## Estrutura do Projeto
 
-Explique brevemente a estrutura do seu projeto:
+Estrutura do projeto:
 
 - `src/api/v1`: Endpoints da API.
 - `src/core`: Configurações centrais e lógica de banco de dados.
