@@ -18,7 +18,7 @@ Instruções para instalar as dependências do projeto. Por exemplo:
 usando Pipenv:
 
 ```bash
-pipenv install
+pipenv install --dev
 ```
 
 ## Configuração
