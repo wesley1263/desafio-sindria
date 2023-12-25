@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Exemplo de Questão de Matemática",
+    "question": "Qual é a raiz quadrada de 16?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "2"},
+      {"option": "B", "description": "4"},
+      {"option": "C", "description": "6"},
+      {"option": "D", "description": "8"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "Exemplo de Questão de História",
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Getúlio Vargas"},
+      {"option": "B", "description": "Juscelino Kubitschek"},
+      {"option": "C", "description": "Marechal Deodoro da Fonseca"},
+      {"option": "D", "description": "João Goulart"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Exemplo de Questão de Filosofia",
+    "question": "Quem é o autor da obra 'Crítica da Razão Pura'?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "Immanuel Kant"},
+      {"option": "B", "description": "Friedrich Nietzsche"},
+      {"option": "C", "description": "Sócrates"},
+      {"option": "D", "description": "Platão"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "História 1",
+    "question": "Em que ano o Brasil foi descoberto?",
+    "answer": "D",
+    "options": [
+      {"option": "A", "description": "1492"},
+      {"option": "B", "description": "1500"},
+      {"option": "C", "description": "1502"},
+      {"option": "D", "description": "1504"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 1",
+    "question": "Quem escreveu 'A República'?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Aristóteles"},
+      {"option": "B", "description": "Sócrates"},
+      {"option": "C", "description": "Platão"},
+      {"option": "D", "description": "Epicuro"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "História 1",
+    "question": "Em que ano o Brasil foi descoberto?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "1492"},
+      {"option": "B", "description": "1500"},
+      {"option": "C", "description": "1502"},
+      {"option": "D", "description": "1504"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 1",
+    "question": "Quem escreveu 'A República'?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Aristóteles"},
+      {"option": "B", "description": "Sócrates"},
+      {"option": "C", "description": "Platão"},
+      {"option": "D", "description": "Epicuro"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 1",
+    "question": "Qual é a raiz quadrada de 16?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "2"},
+      {"option": "B", "description": "4"},
+      {"option": "C", "description": "6"},
+      {"option": "D", "description": "8"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "Filosofia 1",
+    "question": "Quem escreveu 'A República'?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Aristóteles"},
+      {"option": "B", "description": "Sócrates"},
+      {"option": "C", "description": "Platão"},
+      {"option": "D", "description": "Epicuro"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 1",
+    "question": "Qual é o resultado da equação 2x + 3 = 11?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "4"},
+      {"option": "B", "description": "5"},
+      {"option": "C", "description": "6"},
+      {"option": "D", "description": "7"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "História 1",
+    "question": "Quem foi o primeiro imperador do Brasil?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "Dom João VI"},
+      {"option": "B", "description": "Dom Pedro I"},
+      {"option": "C", "description": "Dom Pedro II"},
+      {"option": "D", "description": "Marechal Deodoro da Fonseca"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Matemática 2",
+    "question": "Quanto é 7x - 3 = 25?",
+    "answer": "D",
+    "options": [
+      {"option": "A", "description": "2"},
+      {"option": "B", "description": "3"},
+      {"option": "C", "description": "5"},
+      {"option": "D", "description": "4"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "História 2",
+    "question": "Qual era a principal atividade econômica no Brasil Colônia?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "Cultivo de cana-de-açúcar"},
+      {"option": "B", "description": "Extração de ouro"},
+      {"option": "C", "description": "Cultivo de café"},
+      {"option": "D", "description": "Criação de gado"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 2",
+    "question": "Qual filósofo defendeu a ideia do 'contrato social'?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "Platão"},
+      {"option": "B", "description": "Jean-Jacques Rousseau"},
+      {"option": "C", "description": "Sócrates"},
+      {"option": "D", "description": "Friedrich Nietzsche"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 3",
+    "question": "Qual é o valor de x na equação x² = 49?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "7 ou -7"},
+      {"option": "B", "description": "6 ou -6"},
+      {"option": "C", "description": "8 ou -8"},
+      {"option": "D", "description": "5 ou -5"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "Matemática 4",
+    "question": "Se um triângulo tem lados de 3cm, 4cm e 5cm, ele é:",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Equilátero"},
+      {"option": "B", "description": "Isósceles"},
+      {"option": "C", "description": "Retângulo"},
+      {"option": "D", "description": "Escaleno"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "História 3",
+    "question": "Qual evento marcou o fim da Segunda Guerra Mundial?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "Queda do Muro de Berlim"},
+      {"option": "B", "description": "Bombardeios de Hiroshima e Nagasaki"},
+      {"option": "C", "description": "Assinatura do Tratado de Versalhes"},
+      {"option": "D", "description": "Invasão da Normandia"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "História 4",
+    "question": "Quem foi o líder da Revolução Russa de 1917?",
+    "answer": "D",
+    "options": [
+      {"option": "A", "description": "Nikolai II"},
+      {"option": "B", "description": "Leon Trotsky"},
+      {"option": "C", "description": "Josef Stalin"},
+      {"option": "D", "description": "Vladimir Lenin"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 3",
+    "question": "Qual é o principal trabalho de Sigmund Freud?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "A Interpretação dos Sonhos"},
+      {"option": "B", "description": "Crítica da Razão Pura"},
+      {"option": "C", "description": "Assim Falou Zaratustra"},
+      {"option": "D", "description": "O Ser e o Tempo"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Filosofia 4",
+    "question": "O 'Cogito Ergo Sum' é uma frase famosa de qual filósofo?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Platão"},
+      {"option": "B", "description": "Aristóteles"},
+      {"option": "C", "description": "René Descartes"},
+      {"option": "D", "description": "Immanuel Kant"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 5",
+    "question": "Qual é a área de um círculo com raio de 4cm?",
+    "answer": "D",
+    "options": [
+      {"option": "A", "description": "16π cm²"},
+      {"option": "B", "description": "8π cm²"},
+      {"option": "C", "description": "12π cm²"},
+      {"option": "D", "description": "50,24 cm²"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "Matemática 6",
+    "question": "Se a soma dos ângulos internos de um polígono é 540°, quantos lados ele tem?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "4"},
+      {"option": "B", "description": "5"},
+      {"option": "C", "description": "6"},
+      {"option": "D", "description": "7"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "História 5",
+    "question": "Qual destes países não foi colonizado durante a Era das Explorações?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "Tailândia"},
+      {"option": "B", "description": "Índia"},
+      {"option": "C", "description": "Brasil"},
+      {"option": "D", "description": "México"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "História 6",
+    "question": "Qual foi a primeira capital do Brasil?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "Rio de Janeiro"},
+      {"option": "B", "description": "Brasília"},
+      {"option": "C", "description": "Salvador"},
+      {"option": "D", "description": "São Paulo"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 5",
+    "question": "Quem é conhecido como o pai da filosofia ocidental?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "Aristóteles"},
+      {"option": "B", "description": "Sócrates"},
+      {"option": "C", "description": "Platão"},
+      {"option": "D", "description": "Descartes"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Filosofia 6",
+    "question": "O que significa 'tabula rasa' na filosofia?",
+    "answer": "D",
+    "options": [
+      {"option": "A", "description": "Existência de conhecimento inato"},
+      {"option": "B", "description": "A priori"},
+      {"option": "C", "description": "Dualismo"},
+      {"option": "D", "description": "Mente como uma folha em branco"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 7",
+    "question": "Quantos vértices tem um cubo?",
+    "answer": "C",
+    "options": [
+      {"option": "A", "description": "6"},
+      {"option": "B", "description": "8"},
+      {"option": "C", "description": "12"},
+      {"option": "D", "description": "4"}
+    ],
+    "area": {"title": "Matemática"}
+  },
+  {
+    "title": "História 7",
+    "question": "Quem foi o principal líder da independência da Índia?",
+    "answer": "A",
+    "options": [
+      {"option": "A", "description": "Mahatma Gandhi"},
+      {"option": "B", "description": "Jawaharlal Nehru"},
+      {"option": "C", "description": "Subhas Chandra Bose"},
+      {"option": "D", "description": "Indira Gandhi"}
+    ],
+    "area": {"title": "História"}
+  },
+  {
+    "title": "Filosofia 7",
+    "question": "O que é o 'mundo das ideias' na filosofia de Platão?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "Um lugar físico"},
+      {"option": "B", "description": "Um reino transcendental"},
+      {"option": "C", "description": "Uma alegoria política"},
+      {"option": "D", "description": "Uma teoria ética"}
+    ],
+    "area": {"title": "Filosofia"}
+  },
+  {
+    "title": "Matemática 8",
+    "question": "Qual é o menor número primo?",
+    "answer": "B",
+    "options": [
+      {"option": "A", "description": "1"},
+      {"option": "B", "description": "2"},
+      {"option": "C", "description": "3"},
+      {"option": "D", "description": "4"}
+    ],
+    "area": {"title": "Matemática"}
+  }
+]

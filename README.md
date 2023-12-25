@@ -60,6 +60,35 @@ Para parar e remover o container Docker do MongoDB, você pode usar:
 docker-compose down
 ```
 
+### Instruções para Importação de Dados Fictícios
+Este projeto inclui um conjunto de dados fictícios localizados na pasta data. Estes dados são úteis para testar e demonstrar as funcionalidades do sistema sem a necessidade de dados reais. Siga as instruções abaixo para importar esses dados para o seu banco de dados MongoDB.
+
+#### Pré-requisitos
+Antes de prosseguir, certifique-se de que:
+
+O MongoDB está instalado e em execução na sua máquina ou em um container Docker.
+Você tem os privilégios necessários para acessar e modificar o banco de dados.
+#### Passos para Importação
+Localize os Arquivos de Dados: Navegue até a pasta data no diretório raiz do projeto. Você encontrará os arquivos de dados neste local, geralmente no formato JSON ou CSV.
+
+#### Prepare o Banco de Dados: 
+Certifique-se de que o banco de dados está configurado e pronto para receber os dados. Se necessário, crie uma nova coleção onde os dados serão importados.
+
+#### Importe os Dados para o MongoDB: 
+Utilize a ferramenta mongoimport para importar os dados para o MongoDB. 
+Abaixo está um exemplo de comando para importar um arquivo JSON:
+
+```bash
+mongoimport --db local --collection questions --file ./data/local.questions.json
+```
+#### Verifique a Importação: 
+Após a importação, você pode verificar se os dados foram corretamente importados para o banco de dados usando um cliente MongoDB de sua escolha.
+
+#### Dicas Adicionais
+Automatização: Para projetos maiores ou importações frequentes, considere automatizar este processo com um script.
+Backup: Sempre faça backup dos seus dados antes de realizar operações de importação em um banco de dados existente.
+
+
 ## Executando o Projeto
 
 Instruções para iniciar o servidor FastAPI:
